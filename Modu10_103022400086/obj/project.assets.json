@@ -89,9 +89,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Modu10_103022400086\\Modu10_103022400086\\Modu10_103022400086.csproj",
-      "projectName": "Modu10_103022400086",
-      "projectPath": "D:\\Modu10_103022400086\\Modu10_103022400086\\Modu10_103022400086.csproj",
+      "projectUniqueName": "D:\\Modu10_103022400086\\Modu10_103022400086\\Modul10_103022400086.csproj",
+      "projectName": "Modul10_103022400086",
+      "projectPath": "D:\\Modu10_103022400086\\Modu10_103022400086\\Modul10_103022400086.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
       "outputPath": "D:\\Modu10_103022400086\\Modu10_103022400086\\obj\\",
       "projectStyle": "PackageReference",
